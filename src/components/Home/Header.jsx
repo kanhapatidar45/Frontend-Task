@@ -1,6 +1,6 @@
 // components/Home/Home.jsx
 import React from 'react';
-import HeroSection from './Herosection';  // Correct import path to HeroSection component
+import HeroSection from './HeroSection';  // Correct import path to HeroSection component
 import heroImage from '../../assets/Client-First - IMAGES/man-in-black-suit-wearing-eye-glasses-sitting-on-gray-sofa-using-macbook-3772622.svg'; // Example image import
 
 const Header = () => {
